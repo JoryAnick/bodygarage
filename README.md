@@ -5,7 +5,7 @@ This project is released under a **Commercial License**. Use of this material is
 For permission requests or inquiries regarding rights and usage, please contact the author at [jory@joryanick.com](mailto:jory@joryanick.com).
 <br><br>
 
-![Cover of Bodygarage Book](https://raw.github.com/joryanick/bodygarage/main/covers/bodygarage-cover-en.png?raw=true)
+![Bodygarage Book Logo](https://raw.github.com/joryanick/bodygarage/main/bodygarage-book-logo.png?raw=true)
 <br>
 # **Bodygarage: The Minerals, Migraine, Sinusitis & Digestion Solution Book**
 
