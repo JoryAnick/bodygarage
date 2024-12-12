@@ -17,7 +17,7 @@ Through this journey, I was exposed to diverse cultures, foods, and health persp
 
 ## **Access the Final Editions of My Book**
 
-This directory contains my book, self-published between 2013 and 2015 on Createspace/Amazon. It is available in five languages and formats such as PDF and ePub. 
+This directory contains my book, self-published between 2013 and 2015 on Createspace/Amazon. It is available in five languages in PDF format. 
 
 While the book offers valuable insights, some parts are outdated due to changes in product availability, and certain sections are tailored to my unique situation, which may not align with all readers. Although the **bodygarage.ca** website was shut down years ago and the book received little attention in terms of views and sales, I’m offering the content here to benefit everyone. The included recipes and mineral charts may still serve as useful tools for meal planning. Refer to the bibliography and index for more details on what the book has to offer.
 
@@ -44,3 +44,4 @@ The following tools were instrumental in creating this project:
 Since its last revision, I have faced new health challenges and gained valuable insights over the past decade. These experiences could significantly enhance a future revision of this book. While I hope to update it someday, for now, I am sharing the existing version as it is. If you find this book useful in your life, I'd love to hear about it! Feel free to share your thoughts via email at [jory@joryanick.com](mailto:jory@joryanick.com). You can also... 
 
 <a href='https://ko-fi.com/jorymakes' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+
