@@ -5,7 +5,22 @@
 Developed to help market the book on the Bodygarage YouTube channel.
 
 
-The following tools were used to create this video:
+#### Video segment credits:
+
+Rap puppetry & lyrics:<br>
+puppets/Mike O on Fiverr
+https://www.fiverr.com/broadcastking
+
+Harold the puppet:<br>
+puppetgrams (previously on Fiverr)
+
+
+Voiceover for "Life":<br>
+Throttleupvoice
+https://fiverr.com/throttleupvoice
+
+
+#### Tools used to create this video:
 
 - **Sony Vegas Pro**: For video editing  
 - **Sony ACID**: For music production  
