@@ -29,7 +29,3 @@ https://fiverr.com/throttleupvoice
 
 For information about this project, including background details, tools used, and future plans, please refer to the [main repository directory](../README.md).  
 
-## **Licensing Information**  
-
-The books in this directory are released under a **Commercial License**. Redistribution, reproduction, or use of these materials, in whole or in part, is strictly prohibited without prior written consent from the author. For licensing inquiries or permissions, please contact [jory@joryanick.com](mailto:jory@joryanick.com).  
-
